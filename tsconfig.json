@@ -4,8 +4,6 @@
     "src"
   ],
   "compilerOptions": {
-    "sourceMap": false,
-    "baseUrl": ".",
-    "ignoreDeprecations": "6.0"
+    "sourceMap": false
   }
 }
